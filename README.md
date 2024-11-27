@@ -9,12 +9,18 @@ My name is Jared and I am derived of all those who have impacted and played a ro
 * B.S. in Mechanical Engineering at the University of Notre Dame
 
 ## Skills 
+* Matlab
 * Python (FLASK, Pandas, XGBoost, etc.)
 * R
-* Matlab
+* SQL
 * Tableau
 
-## Projects
-* Dutch National Running Team Injury Analytics - analyzed dataset of daily training and performance logs to investigate factors leading up to injury. Developed derived variables to create new metrics to evaluate performance and risk of injury. The model without my variables were _____ accurate and the model with my derived variables were ______ accurate. This is the power of my approach.
-* NBA Free Agency Analytics - evaluated all NBA players to identify underrated players for front office's to target in free agency or in the trade market. Produced a classification model based on important statistics, including a new stat, Points Responsible. Included model and dashboard allow teams to evaluate player's within their budget and compare against league averages.
-* NBA Sports Betting Model - Create an 84.1% accurate model to predict nightly games of the 2024-2025 NBA Season, this model included various derived variables to improve the accuracy, as well as team elo calculations. 
+## Professional Projects
+* **_Product Testing System_** - Developed a novel approach for product developers in footwear industry to track product testing requests. The system included a MySQL database backend and Flask frontend for users to monitor product testing requests.
+* **NLP** - **_R_** - Created a tool and database for educators to process their _Course Syllabi_. The tool provides an overview of skills and learning outcomes for courses within majors, concentrations. etc.
+
+## Personal Projects
+* **Dutch National Running Team Injury Analytics** -**_R_** - analyzed dataset of daily training and performance logs to investigate factors leading up to injury. Developed derived variables to create new metrics to evaluate performance and risk of injury. The model without my variables were _____ accurate and the model with my derived variables were ______ accurate. This is the power of my approach.
+* NBA:
+  * **Free Agency Analytics** - **_Python_** - Evaluated all NBA players to identify underrated players for front office's to target in free agency or in the trade market. Produced a classification model based on important statistics, including a new stat, Points Responsible. Included model and dashboard allow teams to evaluate player's within their budget and compare against league averages.
+  * **NBA Sports Betting Model** - **_Python_** -
