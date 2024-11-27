@@ -26,7 +26,7 @@ My name is Jared and I am derived of all those who have impacted and played a ro
 * **Course Syllabi NLP Tool** - **_R_** - Created a Natural Language Processing (NLP) tool and database for educators to process their _Course Syllabi_. The tool provides an overview of skills and learning outcomes for courses within majors, concentrations. etc.
 
 ## Personal Projects
-* **Running Injury Risk Analytics** - **_R_** - analyzed a dataset of a National Dutch Running team for daily training and performance logs to investigate factors leading up to injury. Developed derived variables to create new metrics to evaluate performance and risk of injury. With my derived variables were 0.74 accurate in predicting injury. This is the power of my approach.
+* **Running Injury Risk Analytics** - **_R_** - analyzed a dataset of a National Dutch Running team for daily training and performance logs to investigate factors leading up to injury. Developed derived variables to create new metrics to evaluate performance and risk of injury. A model created by a group produced an AUC (Area Under Curve) value of 0.678 With my derived variables were 0.713 AUC value and a 75% accuracy in predicting injuries. While minute, my approach can be used to mitigate and prevent injuries before they happen.
 * **NBA DATA**:
   * **Free Agency Analytics** - **_Python_** - Evaluated all NBA players to identify underrated players for front office's to target in free agency or in the trade market. Produced a classification model based on important statistics, including a new stat, Points Responsible. Included model and dashboard allow teams to evaluate player's within their budget and compare against league averages.
   * **NBA Sports Betting Model** - **_Python_** - Reach out if interested!
