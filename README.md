@@ -9,11 +9,13 @@ My name is Jared and I am derived of all those who have impacted and played a ro
 * B.S. in Mechanical Engineering at the University of Notre Dame
 
 ## Skills 
+**Coding**
 * Matlab
 * Python (FLASK, Pandas, XGBoost, etc.)
 * R
 * SQL
 * Tableau
+**Engineering**
 * CAD - Solidworks
 * 3D Printing - Formlabs | Stratasys (FDM, SLA, SLS)
 
