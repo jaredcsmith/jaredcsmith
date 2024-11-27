@@ -15,6 +15,7 @@ My name is Jared and I am derived of all those who have impacted and played a ro
 * R
 * SQL
 * Tableau
+
 **Engineering**
 * CAD - Solidworks
 * 3D Printing - Formlabs | Stratasys (FDM, SLA, SLS)
