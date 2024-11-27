@@ -21,7 +21,7 @@ My name is Jared and I am derived of all those who have impacted and played a ro
 * 3D Printing - Formlabs | Stratasys (FDM, SLA, SLS)
 
 ## Professional Projects
-* **Product Testing System** - **_Python_** - Developed a novel approach for product developers in sporting goods industry to track product testing requests. The system included a MySQL database backend and Flask frontend for users to monitor product testing requests. The system would intake external feedback from athletes and lifestyle product testers and transform data into readable insights for developers.
+* **Product Testing Program** - **_Python_** - Developed a novel approach for product developers in sporting goods industry to track product testing requests, test with athletes, and transform data into readable insights for developers.
 * **<a href= "https://www.leitnerdesigns.com/collections/accessories/products/gearpod-xl-gen-2" target = "_blank"> Leitner Lid Lifter </a>** - As a research and development engineer, I developed the Leitner Lid Lifter, a gasless strut to automate the opening/closing of the Gearpod Gen II. This product was designed in Solidworks and experienced several FDM printed protyping stages to develop final product.
 * **Course Syllabi NLP Tool** - **_R_** - Created a Natural Language Processing (NLP) tool and database for educators to process their _Course Syllabi_. The tool provides an overview of skills and learning outcomes for courses within majors, concentrations. etc.
 
