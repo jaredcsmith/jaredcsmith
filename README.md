@@ -17,7 +17,7 @@ My name is Jared and I am derived of all those who have impacted and played a ro
 * Tableau
 
 **Engineering**
-* CAD - Solidworks
+* CAD - Solidworks (CSWP Certified), Fusion360
 * 3D Printing - Formlabs | Stratasys (FDM, SLA, SLS)
 
 ## Professional Projects
