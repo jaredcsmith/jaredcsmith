@@ -2,7 +2,7 @@
 To innovate the current athletic landscape and develop products and experiences that influence positive change in our world!
 
 ## About Me
-My name is Jared and I am derived of all those who have impacted and played a role in my life. My love for sports, data and engineering came from my father, Jay. My father and I would bond over box scores, writing stories of our teams' successes and failures, as well as the new innovations within the automative industry. I derive my passion for life, innovation, and athletics from of him. 
+My name is Jared and I am derived of all those who have impacted and played a role in my life.
 
 ## Education - Double Domer 🍀
 * M.S. in Business Analytics, Concentration in Sports Analytics at the University of Notre Dame 
