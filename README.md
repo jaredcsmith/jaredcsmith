@@ -1,5 +1,5 @@
 ## My Goals
-Using community and technology to further athletics.
+Empowering athletics through community and technology.
 
 ## About Me
 - 3X NCAA Team Champion and 1x Individual Runner Up
